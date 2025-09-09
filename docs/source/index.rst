@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+RefactortheDocs
+====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Refactor** 是一支来自 Dgut 的准专业游戏开发团队。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+本知识库是 Refactor 团队的文档合集，包含但不限于：
+
+* 培养方案
+* 团队规范
+* 知识分享
 
 .. note::
 
-   This project is under active development.
-
-Contents
---------
+   **🚧 本文档与团队开发一样，处于持续迭代与优化中。** 欢迎 Pull Request~
 
 .. toctree::
+   :caption: 培养方案
 
-   usage
-   api
+   培养方案/程序培养方案/__

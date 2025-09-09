@@ -22,6 +22,10 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    #
+    'sphinx_copybutton', # 一键复制代码按钮
+    'sphinx_design', # 提供了一系列设计元素，如按钮、卡片、网格布局等
+    'sphinxcontrib.mermaid', # mermaid
 ]
 
 intersphinx_mapping = {
