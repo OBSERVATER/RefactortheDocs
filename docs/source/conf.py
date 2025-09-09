@@ -2,12 +2,17 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+# project = 'Lumache'
+# copyright = '2021, Graziella'
+# author = 'Graziella'
+project = 'RefactortheDocs'
+author = 'Refactor'
+copyright = f'2025, {author}'
 
-release = '0.1'
-version = '0.1.0'
+# release = '0.1'
+# version = '0.1.0'
+release = '0.9'
+version = '0.9.0'
 
 # -- General configuration
 
@@ -29,7 +34,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'shibuya'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
