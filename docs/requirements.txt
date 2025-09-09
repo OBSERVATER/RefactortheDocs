@@ -1,2 +1,5 @@
 sphinx==7.1.2
 shibuya
+sphinx-copybutton
+sphinx-design
+sphinxcontrib-mermaid
