@@ -41,5 +41,15 @@ templates_path = ['_templates']
 #html_theme = 'sphinx_rtd_theme'
 html_theme = 'shibuya'
 
+###
+
+# 自定义页脚，显示版本信息
+html_context = {
+    'display_version': True, # 启用版本信息显示
+    'version_info': f'v{version}', # 使用格式化字符串动态显示版本号，会显示为"v0.9.0"
+}
+
+###
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
