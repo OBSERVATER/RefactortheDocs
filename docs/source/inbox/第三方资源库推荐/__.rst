@@ -8,7 +8,7 @@
 .. note::
    叠甲：这里只是根据个人经历屯下来的一些好用的游戏相关的资源链接，若有想要添加的欢迎pr。
 
-**需要使用科学上网的链接前面会使用“【】”标记**
+**需要使用科学上网的链接会使用“【】”标记**
 
 程序资源
 ----
@@ -17,9 +17,8 @@
    
    通用
       :`RefactortheDocs <https://refactorthedocs.readthedocs.io/>`_: 你说呢。
-      :`【NoUnityCN】 <https://nounitycn.top/>`_: Unity国际版下载链接。因为*众所周知的原因*Unity6及之后的版本都无法在国内获取了，因此有大佬做了这个网站，内含所有Unity版本下载。
-      进网站不用魔法，但下载时要全程黑魔法。
-      :deepwiki: 将所有的公开的GitHub项目用ai做成详细wiki的项目，强推！使用方法：**将网址中的"github.com"改成"deepwiki.com"**
+      :`【NoUnityCN】 <https://nounitycn.top/>`_: Unity国际版下载链接。因为*众所周知的原因*Unity6及之后的版本都无法在国内获取了，因此有大佬做了这个网站，内含所有Unity版本下载。进网站不用魔法，但下载时要全程黑魔法。
+      :deepwiki: 将所有的公开的GitHub项目用ai做成详细wiki的项目，强推！使用方法： **将网址中的"github.com"改成"deepwiki.com"**
       :`缓动函数速查表 <https://easings.net/zh-cn>`_: 配合Dotween使用，查看动画曲线的运动趋势。
    框架
       :`QFramework <https://qframework.cn/>`_: 开箱即用的Unity开发框架，有很多常用的东西，免去搓轮子的烦恼。
@@ -36,6 +35,7 @@
    期待pr
 
 3. **Godot**
+
    :`Godot官方文档 <https://docs.godotengine.org/zh-cn/4.x/>`_: Godot官方文档。
 
 美术、音乐、音效资源
@@ -43,6 +43,6 @@
    :`itch.io <https://itch.io/game-assets/>`_: 知名独立游戏网站，有免费或付费的美术资源，也有gamejam在上面。
    :`OpenGameArt <https://opengameart.org/>`_: 免费美术，音乐，音效。（个人感觉质量不高）
    :`CraftPix <https://craftpix.net/>`_: 免费或付费的2D，3D美术资源，免费音乐，音效资源。
-   :`GameIcons <https://game-icons.net/>`_: 免费的游戏图标网站。需要注意的是**他们都遵循CC-BY协议**
+   :`GameIcons <https://game-icons.net/>`_: 免费的游戏图标网站。需要注意的是 **他们都遵循CC-BY协议**
    :`Kenney <https://www.kenney.nl/assets/>`_: 免费的游戏美术资源网站。个人认为这里的美术质量还是不戳的。
    :`Freesound <https://freesound.org/>`_: 免费的音效网站。
