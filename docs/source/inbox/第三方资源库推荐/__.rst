@@ -32,7 +32,7 @@
       :`Luban <https://www.datable.cn/docs/intro>`_: 游戏配置解决方案，可以把表格转化成常用的序列化格式或者c#代码。
       :`YooAsset <https://www.yooasset.com/>`_: Unity资源管理系统，Unity官方的Addressable更具优势的替代选择。
       :`HybridCLR <https://www.hybridclr.cn/docs/basic>`_: Unity全平台原生c#热更新解决方案。（传统热更需要用lua）
-      :`Mirror <https://github.com/mob-sakai/ParticleEffectForUGUI>`_: Unity多人p2p联机解决方案。
+      :`Mirror <https://mirror-networking.com/>`_: Unity多人p2p联机解决方案。
       
 2. **UE**
 
