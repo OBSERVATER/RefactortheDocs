@@ -29,6 +29,10 @@
       :`Dotween <https://dotween.demigiant.com/>`_: 必备库。该库是Unity的动画插件，可以在一段时间内平滑地改变对象的属性值（如位置、旋转、缩放、颜色、透明度等），从而创建出各种动画效果。
       :`【UIEffect】 <https://github.com/mob-sakai/UIEffect>`_: 给UI加特效的库。
       :`【ParticleEffectForUGUI】 <https://github.com/mob-sakai/ParticleEffectForUGUI>`_: 同作者，给UI加粒子效果的库。
+      :`Luban <https://www.datable.cn/docs/intro>`_: 游戏配置解决方案，可以把表格转化成常用的序列化格式或者c#代码。
+      :`YooAsset <https://www.yooasset.com/>`_: Unity资源管理系统，Unity官方的Addressable更具优势的替代选择。
+      :`HybridCLR <https://www.hybridclr.cn/docs/basic>`_: Unity全平台原生c#热更新解决方案。（传统热更需要用lua）
+      :`Mirror <https://github.com/mob-sakai/ParticleEffectForUGUI>`_: Unity多人p2p联机解决方案。
       
 2. **UE**
 
@@ -40,6 +44,7 @@
 
 美术、音乐、音效资源
 ----
+
    :`itch.io <https://itch.io/game-assets/>`_: 知名独立游戏网站，有免费或付费的美术资源，也有gamejam在上面。
    :`OpenGameArt <https://opengameart.org/>`_: 免费美术，音乐，音效。（个人感觉质量不高）
    :`CraftPix <https://craftpix.net/>`_: 免费或付费的2D，3D美术资源，免费音乐，音效资源。
