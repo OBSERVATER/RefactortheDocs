@@ -38,3 +38,4 @@ RefactortheDocs
    :hidden:
 
    inbox/GameplayModule集/__
+   inbox/第三方资源库推荐/__
