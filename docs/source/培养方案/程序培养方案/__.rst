@@ -381,13 +381,13 @@ Gameplay实战
 
 在学习游戏开发的过程中，优秀的UP主能为你提供宝贵的学习资源和行业洞察。以下是我们精心推荐的UP主：
 
-**十月的寒流** <mcreference link="https://space.bilibili.com/600592" index="0">0</mcreference>
+`十月的寒流 <https://space.bilibili.com/600592>`_
     专注于C#技术栈的深度教学。特别适合想要深入掌握C#高级特性和现代开发框架的同学。
 
-**一唐老狮一** <mcreference link="https://space.bilibili.com/79983517" index="1">1</mcreference>
+`一唐老狮一 <https://space.bilibili.com/79983517>`_
     Unity游戏开发领域的知名讲师，提供从C#基础到Unity高级开发的完整学习路径。
 
-**Lee哥的游戏开发加油站** <mcreference link="https://space.bilibili.com/396395171" index="2">2</mcreference>
+`Lee哥的游戏开发加油站 <https://space.bilibili.com/396395171>`_
     《山水画乡》《卡片农场》制作人。提供行业洞察。频道内容包括游戏开发进行时、认真的游戏开发者访谈、Unity和Unreal免费资源推荐等。
 
 关于
