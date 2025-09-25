@@ -3,7 +3,7 @@
 ====================
 
 .. note::
-   最后更新：2025年9月14日
+   最后更新：2025年9月25日
 
 《游戏设计艺术》
 ==============================
@@ -13,6 +13,8 @@
    :target: https://zh.z-library.sk/s/游戏设计艺术
    :width: 200px
    :align: center
+
+图片直达链接（备用）： `https://zh.z-library.sk/s/游戏设计艺术 <https://zh.z-library.sk/s/游戏设计艺术>`_
 
 **Schell独创的"透镜卡片"系统**
 
@@ -41,6 +43,10 @@
    :target: https://zh.z-library.sk/s/游戏设计的236个技巧：游戏机制、关卡设计和镜头窍门
    :width: 200px
    :align: center
+
+图片直达链接（备用）： `https://zh.z-library.sk/s/游戏设计的236个技巧：游戏机制、关卡设计和镜头窍门 <https://zh.z-library.sk/s/游戏设计的236个技巧：游戏机制、关卡设计和镜头窍门>`_
+
+
 
 **编号索引式问题解决手册**
 
