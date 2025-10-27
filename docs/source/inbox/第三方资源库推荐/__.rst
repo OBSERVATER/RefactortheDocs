@@ -3,7 +3,7 @@
 =============================
 
 .. note::
-   最后更新：2025年9月14日
+   最后更新：2025年10月27日
 
 .. note::
    叠甲：这里只是根据个人经历屯下来的一些好用的游戏相关的资源链接，若有想要添加的欢迎pr。
@@ -16,10 +16,7 @@
 1. **Unity**
    
    通用
-      :`RefactortheDocs <https://refactorthedocs.readthedocs.io/>`_: 你说呢。
-      :`【NoUnityCN】 <https://nounitycn.top/>`_: Unity国际版下载链接。因为*众所周知的原因*Unity6及之后的版本都无法在国内获取了，因此有大佬做了这个网站，内含所有Unity版本下载。进网站不用魔法，但下载时要全程黑魔法。
-      :deepwiki: 将所有的公开的GitHub项目用ai做成详细wiki的项目，强推！使用方法： **将网址中的"github.com"改成"deepwiki.com"**
-      :`缓动函数速查表 <https://easings.net/zh-cn>`_: 配合Dotween使用，查看动画曲线的运动趋势。
+      :`【NoUnityCN】 <https://nounitycn.top/>`_: Unity国际版下载链接。因为 *众所周知的原因* Unity6及之后的版本都无法在国内获取了，因此有大佬做了这个网站，内含所有Unity版本下载。进网站不用魔法，但下载时要全程黑魔法。
    框架
       :`QFramework <https://qframework.cn/>`_: 开箱即用的Unity开发框架，有很多常用的东西，免去搓轮子的烦恼。
       :`GameFramework <https://gameframework.cn/>`_: 基于Unity引擎的开源游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
@@ -40,14 +37,30 @@
 
 3. **Godot**
 
+   :`Godot <https://godotengine.org/>`_: 免费开源的游戏引擎，适合2D和3D游戏开发，支持多平台发布。
+   :`QFramework <https://qframework.cn/>`_: 开箱即用的Unity开发框架，但是有godot版。
    :`Godot官方文档 <https://docs.godotengine.org/zh-cn/4.x/>`_: Godot官方文档。
 
-美术、音乐、音效资源
+4. **通用**
+
+   :`RefactortheDocs <https://refactorthedocs.readthedocs.io/>`_: 你说呢。
+   :`Refactor-op <https://github.com/refactor-op/>`_: 团队内部的轮子库。
+   :deepwiki: 将所有的公开的GitHub项目用ai做成详细wiki的项目，强推！使用方法： **将网址中的"github.com"改成"deepwiki.com"**
+   :`缓动函数速查表 <https://easings.net/zh-cn>`_: 配合Dotween使用，查看动画曲线的运动趋势。
+   :`学习git <https://learngitbranching.js.org/?locale=zh_CN>`_: 学习git和GitHub。
+
+美术资源
 ----
 
    :`itch.io <https://itch.io/game-assets/>`_: 知名独立游戏网站，有免费或付费的美术资源，也有gamejam在上面。
    :`OpenGameArt <https://opengameart.org/>`_: 免费美术，音乐，音效。（个人感觉质量不高）
    :`CraftPix <https://craftpix.net/>`_: 免费或付费的2D，3D美术资源，免费音乐，音效资源。
-   :`GameIcons <https://game-icons.net/>`_: 免费的游戏图标网站。需要注意的是 **他们都遵循CC-BY协议**
+   :`GameIcons <https://game-icons.net/>`_: 免费的游戏图标网站。
    :`Kenney <https://www.kenney.nl/assets/>`_: 免费的游戏美术资源网站。个人认为这里的美术质量还是不戳的。
+   :`Material Maker <https://www.materialmaker.org/>`_:免费的程序化材质生成器，下载需要 **魔法**。
+
+音乐、音效资源
+----
+
    :`Freesound <https://freesound.org/>`_: 免费的音效网站。
+   :`Audacity <https://www.audacityteam.org/>`_: 免费开源的音频编辑软件，可以进行录音、剪辑、混音等操作。
