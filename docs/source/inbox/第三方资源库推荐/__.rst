@@ -23,6 +23,8 @@
       :`【ET】 <https://github.com/egametang/ET>`_: 进阶版的Unity开发框架，使用ECS架构。
    插件/库
       :`【UniTask】 <https://github.com/Cysharp/UniTask>`_: 对我来说是必备库。该库将c#原生的Task多线程进行简化和针对Unity的集成，可替协程和Unity6的Awaitable。
+      :`【ZString】 <https://github.com/Cysharp/ZString>`_: 0gc的字符串操作库。
+      :`【R3】 <https://github.com/Cysharp/R3>`_: 0gc事件库。
       :`Dotween <https://dotween.demigiant.com/>`_: 必备库。该库是Unity的动画插件，可以在一段时间内平滑地改变对象的属性值（如位置、旋转、缩放、颜色、透明度等），从而创建出各种动画效果。
       :`【UIEffect】 <https://github.com/mob-sakai/UIEffect>`_: 给UI加特效的库。
       :`【ParticleEffectForUGUI】 <https://github.com/mob-sakai/ParticleEffectForUGUI>`_: 同作者，给UI加粒子效果的库。
