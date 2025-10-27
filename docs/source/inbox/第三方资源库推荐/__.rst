@@ -59,7 +59,7 @@
    :`CraftPix <https://craftpix.net/>`_: 免费或付费的2D，3D美术资源，免费音乐，音效资源。
    :`GameIcons <https://game-icons.net/>`_: 免费的游戏图标网站。
    :`Kenney <https://www.kenney.nl/assets/>`_: 免费的游戏美术资源网站。个人认为这里的美术质量还是不戳的。
-   :`Material Maker <https://www.materialmaker.org/>`_:免费的程序化材质生成器，下载需要 **魔法**。
+   :`Material Maker <https://www.materialmaker.org/>`_: 免费的程序化材质生成器，下载需要 **魔法**。
 
 音乐、音效资源
 ----
