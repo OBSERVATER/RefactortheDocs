@@ -1,5 +1,5 @@
 sphinx==7.1.2
-shibuya
+shibuya>=2024.1.1,<2024.8.0
 sphinx-copybutton
 sphinx-design
 sphinxcontrib-mermaid

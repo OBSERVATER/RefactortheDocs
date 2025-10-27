@@ -3,7 +3,7 @@
 =============================
 
 .. note::
-   最后更新：2025年9月7日
+   最后更新：2025年9月25日
 
 ----------------
 引言
@@ -182,7 +182,7 @@ Gameplay实战
 
 .. epigraph::
 
-   **虽然项目终会消亡，但架构延长了它的生命！**
+   **虽然项目终将消亡，但架构延长了它的生命！**
 
 **2. 架构是什么？要学什么内容？**
 
@@ -376,8 +376,21 @@ Gameplay实战
 
    学习 → 创作 → 发现不足 → 再学习
 
+推荐UP主
 ----------------
-关于本方案
+
+在学习游戏开发的过程中，优秀的UP主能为你提供宝贵的学习资源和行业洞察。以下是我们精心推荐的UP主：
+
+`十月的寒流 <https://space.bilibili.com/600592>`_
+    专注于C#技术栈的深度教学。特别适合想要深入掌握C#高级特性和现代开发框架的同学。
+
+`一唐老狮一 <https://space.bilibili.com/79983517>`_
+    Unity游戏开发领域的知名讲师，提供从C#基础到Unity高级开发的完整学习路径。
+
+`Lee哥的游戏开发加油站 <https://space.bilibili.com/396395171>`_
+    《山水画乡》《卡片农场》制作人。提供行业洞察。频道内容包括游戏开发进行时、认真的游戏开发者访谈、Unity和Unreal免费资源推荐等。
+
+关于
 ----------------
 
 :作者: Refactor团队
@@ -400,23 +413,29 @@ Gameplay实战
 .. |image1| image:: static/image1.jpg
    :width: 250px
    :alt: C# 初级教程
+   :target: https://www.bilibili.com/video/BV1vhWWeVEeB
 
 .. |image2| image:: static/image2.jpg
    :width: 250px
    :alt: C# 中级教程
+   :target: https://www.bilibili.com/video/BV1ibWWeyEG4
 
 .. |image3| image:: static/image3.jpg
    :width: 250px
    :alt: C# 高级教程
+   :target: https://www.bilibili.com/video/BV1FJWWeQEWH
 
 .. |image4| image:: static/image4.jpg
    :width: 180px
    :alt: 勇士传说
+   :target: https://www.bilibili.com/video/BV1zY411B7KH
 
 .. |image5| image:: static/image5.png
    :width: 180px
    :alt: 勇者之梦
+   :target: https://www.bilibili.com/video/BV1Qt42147a6
 
 .. |image6| image:: static/image6.jpg
    :width: 180px
    :alt: 麦田物语
+   :target: https://www.bilibili.com/video/BV16Z4y1r7iU
